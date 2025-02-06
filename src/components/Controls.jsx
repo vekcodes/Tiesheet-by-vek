@@ -72,6 +72,10 @@ export function Controls() {
       >
         Print Tiesheet
       </button>
+      <a href="https://tiesheet-vek.vercel.app"><button className="px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-colors" >
+        Second Version
+      </button>
+      </a>
     </div>
   )
 }
